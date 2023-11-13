@@ -2,6 +2,8 @@
 
 A custom CSS for Zettlr using Nord theme palette
 
+Prerequisite : https://www.fontsquirrel.com/fonts/droid-serif
+
 How to : 
 
 Open ~/.config/Zettlr/custom.css
