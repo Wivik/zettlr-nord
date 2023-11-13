@@ -14,7 +14,9 @@ Enjoy.
 
 ![image](https://github.com/Wivik/zettlr-nord/assets/48727868/5b5f34c4-7fe5-48ab-96d0-5a7e6cd0681b)
 
+
 *Preview with an article I was writing.*
+
 
 More information : https://docs.zettlr.com/en/advanced/custom-css/
 
