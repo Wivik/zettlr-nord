@@ -1,0 +1,13 @@
+body .main-editor-wrapper .cm-editor{
+    background-color: #2E3440;
+    font-size: 1.3rem;
+}
+
+.cm-content-span {
+    color: #D8DEE9;
+    font-family: 'Droid Serif Regular', serif;
+}
+
+.code {
+    background-color: #000;
+}
